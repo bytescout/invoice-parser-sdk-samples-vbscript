@@ -1,4 +1,4 @@
 ## Index of source code examples:
 
-\General Example
-\Parse with OCR
+\Parse invoice with OCR
+\Read invoice data
